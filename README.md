@@ -1,4 +1,5 @@
-# JavaScript Singly Linked List
+# Linked List
+JavaScript Singly Linked List
 
 ## Methods
 
